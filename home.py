@@ -115,7 +115,7 @@ st.markdown("""
 
 <div style="text-align: left;">
 
-### 🌈 :rainbow[Tips] for Best Results
+### :Blue[Tips] for Best Results
 - Be specific in your questions  
 - Show your work when asking about problems  
 - Ask for examples if concepts aren't clear  
